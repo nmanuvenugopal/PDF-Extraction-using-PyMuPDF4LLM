@@ -81,27 +81,6 @@ The app uses:
 ├── README.md               # GitHub project description
 ```
 
----
-
-### ▶️ How to Run Locally
-
-1. **Clone the repository**  
-```bash
-git clone https://github.com/yourusername/pdf-multimodal-rag.git
-cd pdf-multimodal-rag
-```
-
-2. **Install dependencies**  
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the app**  
-```bash
-streamlit run app.py
-```
-
----
 
 ### 📸 Sample Use Case
 
